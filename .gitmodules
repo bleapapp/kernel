@@ -7,3 +7,12 @@
 [submodule "lib/ExcessivelySafeCall"]
 	path = lib/ExcessivelySafeCall
 	url = https://github.com/nomad-xyz/ExcessivelySafeCall
+[submodule "temp/Kernel/lib/forge-std"]
+	path = temp/Kernel/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "temp/KernelFactory/lib/forge-std"]
+	path = temp/KernelFactory/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "temp/FactoryStaker/lib/forge-std"]
+	path = temp/FactoryStaker/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

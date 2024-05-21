@@ -27,3 +27,8 @@ typechain-types/
 # zerodev orchestra
 log/
 .envrc
+
+# Bleap files
+.idea/
+temp/
+broadcast/Deploy.s.sol/1337

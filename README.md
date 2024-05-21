@@ -1,3 +1,17 @@
+# Bleap forked Kernel
+
+Verify contracts on local hosted Blockscout explorer
+```
+./verify-zerodev-contracts.sh
+```
+
+**DEPRECATED**: Deploying the FactoryStaker + Kernel + KernelFactory on private local network using default Junk wallet
+```
+forge script script/Deploy.s.sol \
+    --rpc-url http://localhost:8545 --legacy --broadcast \
+    --private-key 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+```
+
 # Kernel
 
 Kernel is a smart contract account that is:
